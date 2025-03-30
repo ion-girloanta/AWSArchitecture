@@ -8,9 +8,9 @@ Welcome to my digital portfolio. I'm an architect with a passion for designing s
 
 I am a professional architect with [X]+ years of experience in architectural design, project management, and urban planning. My work emphasizes sustainability, human-centered design, and innovative use of space and materials.
 
-- 📍 Location: [Your City, Country]
-- 🎓 Education: [Your Degree & Institution]
-- 🏢 Currently: [Your Job Title or Firm Name]
+- 📍 Location: [IL, Center region]
+- 🎓 Education: [MBA in Economics, Statistic and Cybernetics]
+- 🏢 Currently: [Manager of the Bar-Ilan University's IT development Full-time]
 - 🌐 Portfolio Website: [YourWebsite.com] *(optional)*
 
 ---
@@ -19,10 +19,8 @@ I am a professional architect with [X]+ years of experience in architectural des
 
 Each folder in this repository represents a unique architectural project. Inside, you’ll find:
 
-- Conceptual sketches and renderings
-- Floor plans and elevations
-- Technical drawings and diagrams
-- Project descriptions and design rationale
+ diagrams
+- aws architectue examples that I made
 
 | Project | Type | Year | Location |
 |--------|------|------|----------|
