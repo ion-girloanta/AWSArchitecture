@@ -1,57 +1,66 @@
-# 🏛️ Architecture Portfolio
+# 💼 IT Management & Technology Architecture Portfolio
 
-Welcome to my digital portfolio. I'm an architect with a passion for designing spaces that blend form, function, and emotion. This repository showcases a curated selection of architectural projects I've developed over the years, spanning residential, commercial, and conceptual works.
-
----
-
-## 📐 About Me
-
-I am a professional architect with [15]+ years of experience in AWS cloud development, teams and projects manager and IT architecture
-.
-
-- 📍 Location: [IL, Center region]
-- 🎓 Education: [MBA in Economics, Statistic and Cybernetics]
-- 🏢 Currently: [Manager of the Bar-Ilan University's IT development Full-time]
-- 🌐 Portfolio Website: [YourWebsite.com] *(optional)*
+Welcome to my digital portfolio. I'm an IT Executive with a robust background in enterprise systems, cloud architecture, and software solutions. I'm an **AWS Certified Solutions Architect** and a **Certified Network Defender (CND)** with over 35 years of experience delivering high-impact IT and regulatory solutions in finance and corporate governance.
 
 ---
 
-## 🗂️ Projects Overview
+## 👨‍💻 About Me
 
-Each folder in this repository represents a unique architectural project. Inside, you’ll find:
+Throughout my career, I have led the development and implementation of complex enterprise systems and digital platforms that align with strategic business goals. My strength lies in bridging business needs with technology execution across cloud, data, and infrastructure landscapes.
 
- diagrams
-- aws architectue examples that I made
-
-| Project | Type | Year | Location |
-|--------|------|------|----------|
-| [`Modern Lakehouse`](./Modern-Lakehouse) | Residential | 2023 | Canada |
-| [`Urban Co-Working Hub`](./Urban-Co-Working-Hub) | Commercial | 2022 | Germany |
-| [`Green Courtyard Homes`](./Green-Courtyard-Homes) | Housing Development | 2021 | Japan |
+- **Certified AWS Solutions Architect** – Scalable and resilient cloud infrastructure design  
+- **Certified Network Defender (CND)** – Strong foundation in security protocols and network protection  
+- **Enterprise Architecture** – System integration, scalability, and performance optimization  
+- **ERP, CRM, BI & DWH Implementation** – Extensive work across business-critical platforms  
+- **35+ Years in Financial Systems** – Focused on regulation, budgeting, and data governance
 
 ---
 
-## 🧰 Tools & Skills
+## 🧰 Key Skills & Competencies
 
-- Autodesk AutoCAD / Revit / SketchUp
-- Rhino + Grasshopper
-- Adobe Photoshop / Illustrator / InDesign
-- BIM & sustainable design principles
-- 3D modeling, rendering, and visualization
+- **AWS Cloud Architecture**  
+- **Cybersecurity & Network Defense (CND)**  
+- **Project Management**  
+- **Vendor Relations**  
+- **IT Research and Development (R&D)**  
+- **Technology Solutions Architecture**  
+- **Information Systems Design**  
+- **Team Leadership & Coaching**  
+- **Enterprise Data Modeling**  
+- **Regulatory Compliance Solutions**
 
 ---
 
-## 📎 License & Credits
+## ⚙️ Technical Proficiency
 
-All content and designs are © [Your Name]. Do not reproduce without permission. If you're interested in collaborations or professional inquiries, feel free to reach out via [your-email@example.com].
+- **Oracle Data Integrator (ODI)**  
+- **Oracle ERP Cloud**  
+- **Enterprise Architecture**  
+- **Budgeting & Financial Oversight Systems**  
+- **Cloud-Based Business Applications**  
+- **Security Protocols & Risk Mitigation**  
 
 ---
 
-## 📬 Contact
+## 📂 Featured Work
 
-Let’s connect!
+Each folder in this repository represents a specific solution, design, or technical case study from my career.
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Instagram (Designs)](https://instagram.com/yourhandle)
-- [Email](mailto:your-email@example.com)
+| Project                                 | Type                 | Focus Area             | Tools/Tech         |
+|-----------------------------------------|----------------------|------------------------|--------------------|
+| [`Regulatory Reporting Framework`](./Regulatory-Framework) | Architecture Design    | Compliance & Reporting| ODI, Oracle ERP    |
+| [`ERP Cloud Implementation`](./ERP-Cloud-Deployment)       | Deployment Strategy    | Financial Systems    | Oracle ERP Cloud   |
+| [`Legacy System Migration`](./Legacy-Migration)            | System Integration     | Budgeting Systems    | Custom Middleware  |
 
+---
+
+## 📎 License & Use
+
+All documents, architectures, and code samples are © Ion Girloanta, shared for professional showcase purposes only. Please contact me before reuse or redistribution.
+
+---
+
+## 📬 Connect with Me
+
+- [LinkedIn – Ion Girloanta](https://www.linkedin.com/in/iongirloanta/)  
+- [Email](mailto:ion_g@yahoo.com)
