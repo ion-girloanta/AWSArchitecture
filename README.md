@@ -6,7 +6,8 @@ Welcome to my digital portfolio. I'm an architect with a passion for designing s
 
 ## 📐 About Me
 
-I am a professional architect with [X]+ years of experience in architectural design, project management, and urban planning. My work emphasizes sustainability, human-centered design, and innovative use of space and materials.
+I am a professional architect with [15]+ years of experience in AWS cloud development, teams and projects manager and IT architecture
+.
 
 - 📍 Location: [IL, Center region]
 - 🎓 Education: [MBA in Economics, Statistic and Cybernetics]
